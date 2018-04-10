@@ -40,9 +40,9 @@ SimAirport is a trademark of LVGameDev LLC.</copyright>
                     <mode0>Sandlåda</mode0>
                     <mode1>Karriär</mode1>
                     <tt>
-                        <desc0>Choose Your Play Style</desc0>
-                        <desc1>Use your skills, try to turn a profit!</desc1>
-                        <desc2>Cannot spend money when you have a negative balance</desc2>
+                        <desc0>Välj Ditt Spelstil</desc0>
+                        <desc1>Använd din sicklighet, försök att skapa vinst!</desc1>
+                        <desc2>Kan inte spendera pengar när du har negativ saldo</desc2>
                         <desc3>Bankrupt and game over if you have negative balance for 48 hours</desc3>
                         <desc4>Must begin on a Medium size map</desc4>
                         <desc5>Unlimited funds, no bankruptcy!</desc5>
