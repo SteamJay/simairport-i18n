@@ -40,64 +40,63 @@ SimAirport is a trademark of LVGameDev LLC.</copyright>
                     <mode0>Sandlåda</mode0>
                     <mode1>Karriär</mode1>
                     <tt>
-                        <desc0>Välj Ditt Spelstil</desc0>
+                        <desc0>Välj Din Spelstil</desc0>
                         <desc1>Använd din sicklighet, försök att skapa vinst!</desc1>
                         <desc2>Kan inte spendera pengar när du har negativ saldo</desc2>
-                        <desc3>Bankrupt and game over if you have negative balance for 48 hours</desc3>
-                        <desc4>Must begin on a Medium size map</desc4>
-                        <desc5>Unlimited funds, no bankruptcy!</desc5>
-                        <desc6>Money IS still tracked</desc6>
-                        <desc7>Can continue spending, even with negative balance</desc7>
-                        <desc8>Game never ends due to bankruptcy</desc8>
+                        <desc3>Konkurs och spelet tar slut om du har negativ balans i 48 timmar</desc3>
+                        <desc4>Måste börja på en  begin on a Liten storlek karta</desc4>
+                        <desc5>Obegränsad tillgångar, ingen konkurs!</desc5>
+                        <desc6>Pengar är visas fotfarande</desc6>
+                        <desc7>Kan fotfarande spendera, med negativ balans</desc7>
+                        <desc8>Spelet slutar aldrig pågrund av konkurs</desc8>
                     </tt>
                 </mode>
                 <size>
-                    <title>Map Size</title>
+                    <titl>Kart storlek</title>
                     <tt0>
-                        <desc0>When playing in Career Mode you will start on a {0} map ({1}x{2}). You can expand and purchase more land, to accommodate your ever-growing airport!</desc0>
+                        <desc0>När spelar Karriärläge kommer du börja på en {0} map ({1}x{2}). Du kan bygga ut och köpa mer land, för att tillmötesgå ditt ständigt växande flygplats!</desc0>
                     </tt0>
                     <tt1>
-                        <desc0>When playing in Sandbox Mode, you may choose which size map you want to start with.  You can still purchase additional Land to expand later, too, but this determines your starting map size.  Note that property taxes are a bit higher on larger plots of land!</desc0>
+                        <desc0>När spelar i Sandlådeläge kan du välja storlek på karta. Du kan fotfarande köpa mer land för att kunna expandera, men detta bestämer storleken på kartan som du börjar med. Notera fastighetsskat är högre på större på större kator!</desc0>
                     </tt1>
                 </size>
                 <difficulty>
-                    <title>Difficulty</title>
+                    <title>Svårighet</title>
                     <option0>Normal</option0>
-                    <option1>Easy</option1>
+                    <option1>Lätt</option1>
                 </difficulty>
                 <tutorial>Tutorial</tutorial>
                 <blank>
-                    <title>Start from Scratch</title>
+                    <title>Börja från början</title>
                     <tt>
                         <desc>Starting from scratch will begin with an empty plot of land but requires more time to get your airport up &amp; running. If you're a new player, we recommend leaving this off to get started playing SimAirport right away with our built-in starter airport layout.</desc>
                     </tt>
                 </blank>
             </new>
             <save>
-                <title>Save Game</title>
-                <save>Save</save>
-                <browse>Browse Saves Folder</browse>
-                <as>Save As...</as>
+                <title>Spara spel</title>
+                <save>Spara</save>
+                <browse>Bläddra Spara mapp</browse>
+                <as>Spara Som...</as>
                 <step1>
-                    <title>Saving...</title>
-                    <desc>Just a moment while we save your game...</desc>
+                    <title>Sparar...</title>
+                    <desc>Ett ögonblick medans vi sparar ditt spel...</desc>
                 </step1>
                 <step2>
-                    <title>Saved!</title>
-                    <desc>Your game has been saved successfully.</desc>
+                    <title>Sparad!</title>
+                    <desc>Ditt spel har sparas.</desc>
                 </step2>
-                <edgeBranchNotice>As a precautionary measure, file overwrite is prohibited on Edge releases of SimAirport. Please choose a unique name each time you save your game.</edgeBranchNotice>
-                <overwrite>Overwrite Existing Save Game?</overwrite>
-                <search>Displaying {0} of {1} saved games that match "{2}".
-To view all existing save files, clear the filename in the input field above.</search>
+                <edgeBranchNotice>Som en säkerhetsåtergäd, fil överskrivning är förbjudet på Edge publiceringar av SimAirport. Vänligen välj ett unik namn för varje du sparar ditt spel.</edgeBranchNotice>
+                <overwrite>Överskriv Existerande Sparade Spel?</overwrite>
+                <search>Visar {0} av {1} sparade spel som matchar "{2}". Att visa alla existerande sparade filer, rensa filnamn på inmatningsfält ovan</search>
             </save>
             <load>
-                <title>Load Game</title>
-                <load>Load Selected Game</load>
-                <preview>Saved Game Preview</preview>
+                <title>Ladda Spel</title>
+                <load>Ladda Valt Spel</load>
+                <preview>Spara förhandsgranskadspel</preview>
                 <delete>
-                    <title>Delete File</title>
-                    <desc>CAUTION!
+                    <title>Radera File</title>
+                    <desc>VARNING!
 
 This will permanently delete the selected game from your computer. Are you SURE you want to delete this save?</desc>
                 </delete>
